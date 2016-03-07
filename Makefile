@@ -88,7 +88,6 @@ book.epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css e
 		--epub-embed-font=../lib/GenBasBI.ttf \
 		--epub-embed-font=../lib/GenBasI.ttf \
 		--epub-embed-font=../lib/GenBasR.ttf \
-
 		--epub-embed-font=../lib/OpenSans-Light.otf \
 		--epub-embed-font=../lib/OpenSans-LightItalic.otf \
 		--epub-embed-font=../lib/VAGRoundedStd-Black.otf \
