@@ -1,3 +1,40 @@
+/* gentium-basic-regular - latin */
+@font-face {
+  font-family: 'Gentium Basic';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/gentium-basic-v8-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Gentium Basic'), local('GentiumBasic'),
+       url('../fonts/gentium-basic-v8-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+/* gentium-basic-italic - latin */
+@font-face {
+  font-family: 'Gentium Basic';
+  font-style: italic;
+  font-weight: 400;
+  src: url('../fonts/gentium-basic-v8-latin-italic.eot'); /* IE9 Compat Modes */
+  src: local('Gentium Basic Italic'), local('GentiumBasic-Italic'),
+       url('../fonts/gentium-basic-v8-latin-italic.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+/* gentium-basic-700 - latin */
+@font-face {
+  font-family: 'Gentium Basic';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/gentium-basic-v8-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Gentium Basic Bold'), local('GentiumBasic-Bold'),
+       url('../fonts/gentium-basic-v8-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+/* gentium-basic-700italic - latin */
+@font-face {
+  font-family: 'Gentium Basic';
+  font-style: italic;
+  font-weight: 700;
+  src: url('../fonts/gentium-basic-v8-latin-700italic.eot'); /* IE9 Compat Modes */
+  src: local('Gentium Basic Bold Italic'), local('GentiumBasic-BoldItalic'),
+       url('../fonts/gentium-basic-v8-latin-700italic.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
 @font-face{
     font-family: 'OpenSans-Light';
     font-weight: lighter;
@@ -38,7 +75,7 @@
 
 body{
     font-size: 10pt;
-    font-family: 'OpenSans-Light';
+    font-family: 'Gentium Basic';
     hyphens: none
     -webkit-hyphens:none;
 }
@@ -61,7 +98,8 @@ p {
 
 
 h1,h2,h3,h4{     
-    font-family: 'VAGRoundedStd-Bold';
+    font-family: 'Gentium Basic';
+    font-weight: bold;
     text-transform:uppercase;
     hyphens: none !important;
     -moz-hyphens: none !important;
@@ -90,16 +128,14 @@ h2{
 
 
 b,strong{
-    font-family: 'OpenSans-Semibold';
+    font-weight: bold;
 }
 
 p.italic {
-    font-family: 'OpenSans-LightItalic';
     font-style: italic;
 }
 
 figcaption{
-        font-family: VAGRoundedStd-Bold;
     font-size:0.8em;
 }
 
@@ -159,7 +195,6 @@ a:hover { color: #d2a8d4;
   }
 
     div.streams{
-    font-family: VAGRoundedStd-Bold;
     width: 70%;
     min-width: 10em;
     margin-left: auto;

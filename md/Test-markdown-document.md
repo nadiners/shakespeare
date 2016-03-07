@@ -1,11 +1,10 @@
-<p style=width:700px>
+
 
 <h1 style=color:red;>
 Shakespeare's Sonnets
 </h1>
 
-![](md/imgs/i-would-definitely-come-back-10417.jpg)
-
+![Portrait](imgs/mosaic.jpg)
 
 ##51
 
@@ -24,5 +23,25 @@ But love, for love, thus shall excuse my jade,
 Since from thee going, he went wilful-slow,  
 Towards thee I'll run, and give him leave to go.  
 
+##64
 
-</p>
+
+When I have seen by Time's fell hand defaced  
+The rich-proud cost of outworn buried age,  
+When sometime lofty towers I see down-rased,  
+And brass eternal slave to mortal rage.  
+When I have seen the hungry ocean gain  
+Advantage on the kingdom of the shore,  
+And the firm soil win of the watery main,  
+Increasing store with loss, and loss with store.  
+When I have seen such interchange of State,  
+Or state it self confounded, to decay,  
+Ruin hath taught me thus to ruminate  
+That Time will come and take my love away.  
+This thought is as a death which cannot choose  
+But weep to have, that which it fears to lose.  
+
+
+
+
+
