@@ -6,7 +6,7 @@ Shakespeare's Sonnets
 
 ![Portrait](imgs/mosaic.jpg)
 
-##51
+##52
 
 Can my love excuse the slow offence,  
 Of my dull bearer, when from thee I speed,  
@@ -40,6 +40,9 @@ Ruin hath taught me thus to ruminate
 That Time will come and take my love away.  
 This thought is as a death which cannot choose  
 But weep to have, that which it fears to lose.  
+
+## Colophone
+
 
 
 
